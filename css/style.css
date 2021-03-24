@@ -133,7 +133,7 @@ header{
   }
 }
 
-/*
+
 @media print { 
   body { 
     background-image: none;
@@ -145,7 +145,7 @@ header{
 
   .nav_links {
     flex-direction: row;
-    justify-content: space-round; 
+    justify-content: space-around; 
   }
 
   .price { 
@@ -162,4 +162,3 @@ header{
    display: none;
  }
 }
-*/
